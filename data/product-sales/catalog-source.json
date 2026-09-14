@@ -1,0 +1,27 @@
+{
+  "PT-001": {
+    "vendor": "Companion Supply",
+    "name": "Dry Food",
+    "size": "5 lb"
+  },
+  "PT-002": {
+    "vendor": "Companion Supply",
+    "name": "Training Treat",
+    "size": "8 oz"
+  },
+  "PT-003": {
+    "vendor": "Companion Supply",
+    "name": "Grooming Kit",
+    "size": "6 piece"
+  },
+  "PT-004": {
+    "vendor": "Companion Supply",
+    "name": "Travel Bowl",
+    "size": "24 oz"
+  },
+  "PT-005": {
+    "vendor": "Companion Supply",
+    "name": "Dental Chew",
+    "size": "30 count"
+  }
+}
